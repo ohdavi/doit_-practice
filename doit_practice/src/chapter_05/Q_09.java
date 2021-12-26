@@ -17,7 +17,7 @@ public class Q_09 {
 	}
 
 	// 답안지
-	// 스스로 구현하려 했으나 재귀에 대해 이해가 부족해서 실패..
+	// 재귀에 대해 이해가 부족해서 실패..
 	static void set(int i) {
 		int j;
 		int[] jstk = new int[8];
