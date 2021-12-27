@@ -1,7 +1,5 @@
 package chapter_06;
 
-import java.util.Scanner;
-
 public class Q_02 {
 	static void swap(int[] x, int a, int b) {
 		int n = x[a];
@@ -70,8 +68,9 @@ public class Q_02 {
 	
 	public static void main(String[] args) {
 		int[] x = { 6, 4, 3, 7, 1, 9, 8 };
-
 		bubbleSort(x);
+//		int n = x.length;
+//		bubbleSort(x,n);
 	}
 
 }

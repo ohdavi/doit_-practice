@@ -1,7 +1,5 @@
 package chapter_06;
 
-import java.util.Scanner;
-
 public class Q_01 {
 	static void bubbleSort(int[] x) {
 		for (int i = 1; i < x.length; i++) {
